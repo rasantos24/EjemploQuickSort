@@ -2,7 +2,7 @@
 
 #include <iostream>
 using namespace std;
-#define ARRAY_SIZE 10 // Tamanio de mi matriz
+#define ARRAY_SIZE 13 // Tamanio de mi matriz
 void printArray(int* array, int n);
 void quickSort(int* array, int inicio, int final);
 int splitArray(int* array, int pivote, int inicio, int final);
